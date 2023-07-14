@@ -12,11 +12,11 @@ t:
   site_search: "Site Search"
   results_found: "Result(s) found"
   search_placeholder_text: "Enter your search term..."
-  home: "Home"
+  #home: "Home"
   newer: "Newer"
   older: "Older"
   email: "Email"
-  subscribe: "Subscribe"
+  #subscribe: "Subscribe"
   read_more: "Read More"
   posts: "Posts"
   page: "Page"
@@ -49,5 +49,7 @@ google_fonts:
 # pages that have a `title`. Add raw page paths in the order you'd like.
 
 navigation_pages:
-  - about.md
+  - index.md
   - cv.md
+  - publications.md
+  - news.md
