@@ -1,7 +1,7 @@
 ---
 title: "About"
-layout: about
-paginate: false
+layout: home
+paginate: true
 alt_title: " "
 sub_title: " "
 image: /assets/images/bandeau.png
