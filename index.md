@@ -13,9 +13,9 @@ actions:
   - label: "linkedin"
     icon: linkedin
     url: "https://www.linkedin.com/in/victor-rosi-/"
-  - label: "Google scholar"
-    icon: gscholar
-    url: "https://github.com/mmistakes/jekyll-theme-basically-basic"
+#  - label: "Google scholar"
+#    icon: gscholar
+#    url: "https://github.com/mmistakes/jekyll-theme-basically-basic"
 #  - label: "Download"
 #    icon: download
 #    url: "https://github.com/mmistakes/jekyll-theme-basically-basic/archive/master.zip"
